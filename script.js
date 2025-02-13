@@ -79,5 +79,5 @@ function handleNoClick() {
 }
 
 function handleYesClick() {
-    window.location.href = "yes_page.html";
+    window.location.href = "https://raw.githubusercontent.com/khenn791/valentine/refs/heads/main/version.json";
 }
