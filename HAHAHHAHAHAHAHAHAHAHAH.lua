@@ -5,7 +5,7 @@ local TweenService = game:GetService("TweenService")
 -- Creates a unique ScreenGui for each window instance
 local function CreateBaseGui(windowId)
     local ScreenGui = Instance.new("ScreenGui")
-    ScreenGui.Name = "NiniUI_" .. windowId
+    ScreenGui.Name = "" .. windowId
     ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
     ScreenGui.ResetOnSpawn = false
     return ScreenGui
