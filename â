@@ -1,6 +1,4 @@
-local OwnerList = {
+return {
     "GameLuaNhau",
     "quayvebenanhdi"
 }
-
-return OwnerList
