@@ -1,0 +1,6 @@
+local OwnerList = {
+    "GameLuaNhau",
+    "quayvebenanhdi"
+}
+
+return OwnerList
